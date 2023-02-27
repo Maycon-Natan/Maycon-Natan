@@ -1,10 +1,55 @@
-- 👋 Hi, I’m @Maycon-Natan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-Maycon-Natan/Maycon-Natan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#  Olá, eu sou o Maycon!
+
+
+- 🎓 &nbsp; Graduando de **Ciência da Computação** na <a href="https://estacio.br">Estácio de Sá</a>.
+
+- 🌱 &nbsp; Aprendendo mais sobre **Dart** · **Flutter** 
+
+<!--<h3> :rocket: &nbsp;Minhas Skills </h3>
+
+**Aplicações e Dados**
+
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+
+
+<h3> :shipit: &nbsp;Meus status </h3> -->
+
+<div style="display: inline_block">
+
+<a href="https://github.com/iagoscm">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iagoscm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"></img>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagoscm&layout=compact&langs_count=7&theme=tokyonight"></img>
+
+</div>
+
+<div style="display: inline_block"><br>
+
+<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+<img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
+<img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+
+</div>
+
+##
+
+![Linkedin Badge](https://img.shields.io/badge/-Maycon_Natan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maycon-natan-696927178/)
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iagomatosousa@gmail.com)](mailto:mayconnatan7@gmail.com)
+
+<div>
+
+<img align="right" src="https://komarev.com/ghpvc/?username=iagoscm&label=Profile%20views&color=0e75b6&style=flat"/>
+
+</div>
+
+<!--![](https://komarev.com/ghpvc/?username=Maycon-Natan&label=Profile%20views&color=0e75b6&style=flat)-->
