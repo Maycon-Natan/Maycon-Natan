@@ -32,7 +32,7 @@
 
 <div style="display: inline_block"><br>
 
-<img align="center" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dart.svg" <path fill="white" /> />
+<img align="center" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dart.svg" path fill="white" />
   
 <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flutter.svg" />
 
