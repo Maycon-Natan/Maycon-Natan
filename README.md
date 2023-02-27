@@ -32,7 +32,7 @@
 
 <div style="display: inline_block"><br>
 
-<img align="center" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart.svg" />
+<img align="center" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dart.svg" />
   
 <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flutter.svg" />
 
@@ -47,7 +47,7 @@
 
 <div>
 
-<img align="right" src="https://komarev.com/ghpvc/?username=iagoscm&label=Profile%20views&color=0e75b6&style=flat"/>
+<img align="right" src="https://komarev.com/ghpvc/?username=Maycon_Natan&label=Profile%20views&color=0e75b6&style=flat"/>
 
 </div>
 
