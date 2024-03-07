@@ -2,9 +2,9 @@
 #  Olá, eu sou o Maycon!
 
 
-- 🎓 &nbsp; Graduando de **Ciência da Computação** na <a href="https://estacio.br">Estácio de Sá</a>.
+- 🎓 &nbsp; Bacharel em **Ciência da Computação** na <a href="https://estacio.br">Estácio de Sá</a>.
 
-- 🌱 &nbsp; Aprendendo mais sobre **Dart** · **Flutter** 
+- 🌱 &nbsp; Desenvolvedor Junior **Flutter** 
 
 <!--<h3> :rocket: &nbsp;Minhas Skills </h3>
 
