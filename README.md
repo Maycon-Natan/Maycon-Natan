@@ -28,7 +28,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maycon-Natan&layout=compact&langs_count=7&theme=tokyonight"></img>
 
-</div>
+</div> -->
 
 <div style="display: inline_block"><br>
   
@@ -37,7 +37,7 @@
 <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flutter.svg" />
 
 <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div> -->
+</div> 
 
 ##
 
