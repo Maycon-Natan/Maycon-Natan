@@ -20,7 +20,7 @@
 
 <h3> :shipit: &nbsp;Meus status </h3> -->
 
-<div style="display: inline_block">
+<!--<div style="display: inline_block">
 
 <a href="https://github.com/Maycon-Natan">
 
@@ -37,7 +37,7 @@
 <img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flutter.svg" />
 
 <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+</div> -->
 
 ##
 
