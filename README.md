@@ -20,15 +20,15 @@
 
 <h3> :shipit: &nbsp;Meus status </h3> -->
 
-<!--<div style="display: inline_block">
+<div style="display: inline_block">
 
 <a href="https://github.com/Maycon-Natan">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=maycon-natan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"></img>
+<!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=maycon-natan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"></img> -->
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maycon-Natan&layout=compact&langs_count=7&theme=tokyonight"></img>
 
-</div> -->
+</div>
 
 <div style="display: inline_block"><br>
   
