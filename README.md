@@ -1,54 +1,66 @@
+<h1 align="center">Olá, eu sou o Maycon Natan 👋</h1>
 
-#  Olá, eu sou o Maycon!
+<p align="center">Flutter Developer</p>
 
+---
 
-- 🎓 &nbsp; Bacharel em **Ciência da Computação** na <a href="https://estacio.br">Estácio de Sá</a>.
+🎓 Bacharel em Ciência da Computação — Estácio de Sá  
+📱 Trabalhando com Flutter desde o início com foco em frontend e experiência do usuário  
+🔨 Projetos: plataforma jurídica ([Concursos 360](https://www.concursos360.com/)), app de vagas e app de promoções  
+🤖 Explorando workflows com IA no desenvolvimento  
 
-- 🌱 &nbsp; Desenvolvedor Junior **Flutter** 
+---
 
-<!--<h3> :rocket: &nbsp;Minhas Skills </h3>
+### 🛠️ Stack
 
-**Aplicações e Dados**
+**Mobile**
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+**Arquitetura & Estado**
 
+![BLoC](https://img.shields.io/badge/BLoC-FF6F00?style=for-the-badge&logo=flutter&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-6DB33F?style=for-the-badge&logo=databricks&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+**Backend & APIs**
 
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
+**Ferramentas**
 
-<h3> :shipit: &nbsp;Meus status </h3> -->
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<div style="display: inline_block">
+---
 
-<a href="https://github.com/Maycon-Natan">
+### 📊 GitHub Stats
 
-<!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=maycon-natan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"></img> -->
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Maycon-Natan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maycon-Natan&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maycon-Natan&layout=compact&langs_count=7&theme=tokyonight"></img>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Maycon-Natan&theme=tokyonight&hide_border=true"/>
+</p>
 
-</div>
+---
 
-<div style="display: inline_block"><br>
-  
-<img align="center" alt="Dart" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dart.svg" />
-  
-<img align="center" alt="Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/flutter.svg" />
+### 📬 Contato
 
-<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div> 
+<p align="left">
+  <a href="https://www.linkedin.com/in/maycon-natan-696927178/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Maycon_Natan-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mayconnatan7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-mayconnatan7@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-##
-
-![Linkedin Badge](https://img.shields.io/badge/-Maycon_Natan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maycon-natan-696927178/)
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iagomatosousa@gmail.com)](mailto:mayconnatan7@gmail.com)
-
-<div>
-
-<img align="right" src="https://komarev.com/ghpvc/?username=Maycon-Natan&label=Profile%20views&color=0e75b6&style=flat"/>
-
-</div>
-
-<!--![](https://komarev.com/ghpvc/?username=Maycon-Natan&label=Profile%20views&color=0e75b6&style=flat)-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Maycon-Natan&label=Visualizações+do+perfil&color=0e75b6&style=flat"/>
+</p>
